@@ -1,0 +1,5 @@
+Hello, I'm Sneha Devi, a 33-year-old React Developer from Chennai, India. Currently employed at Sify Technologies, I specialize in the MERN stack and possess a strong grasp of cloud concepts. With a Bachelor's degree in Computer Science from IIT Chennai, I've accumulated a diverse range of experiences, including roles at TechGenix Solutions and CloudWave Innovations.
+
+My childhood was marked by building computers with my father and participating in coding competitions with friends Priya and Rohan. Professionally, I overcame shyness to lead the development of a complex e-commerce platform. I'm passionate about sustainable living, enjoy reading and playing the guitar, and find solace in the Himalayas.
+
+In my technical toolkit, I'm proficient in JavaScript, HTML, CSS, React, Node.js, Express, and databases like MongoDB and MySQL. My dreams include contributing to open-source projects and starting a tech education initiative for underprivileged children. Despite being introverted, I bring empathy, adaptability, and innovation to both my professional and personal life. My motto: "Code speaks louder than words."

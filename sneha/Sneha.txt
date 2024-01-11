@@ -1,0 +1,122 @@
+Basic Information:
+
+Full Name: Sneha Devi
+Nicknames: Sny, Dev
+Date of Birth: June 15, 1990
+Age: 33
+Gender: Female
+Place of Birth: Chennai, India
+Current Residence: Chennai, India
+Appearance:
+
+Height: 5'6"
+Build: Slim
+Hair Color: Black
+Eye Color: Brown
+Distinctive Features: A small tattoo of a lotus flower on her left wrist.
+Background:
+
+Family:
+Parents:
+Mother's Name: Anitha Devi, 58, School Principal
+Father's Name: Rajesh Devi, 60, Engineer (Retired)
+Siblings:
+Brother: Arjun Devi, 29, Software Engineer
+Other Important Family Members: Aunt Meera and Uncle Vikram, who have been like second parents to Sneha.
+Education:
+
+Schooling:
+Name of High School: Chennai High School
+Graduation Year: 2008
+College/University:
+Highest Level of Education: Bachelor of Technology
+University Attended: Indian Institute of Technology (IIT), Chennai
+Graduation Year: 2012
+Relevant Coursework, Major/Field of Study: Computer Science and Engineering
+Career:
+
+Current Job/Designation: React Developer at Sify Technologies
+
+Employee ID in current Company/Organization: ST12345
+
+Work Experience:
+
+Previous Jobs/Positions:
+Software Engineer at TechGenix Solutions (2012-2015)
+Senior Developer at CloudWave Innovations (2015-2018)
+Areas of Expertise: MERN Stack, Cloud Concepts
+
+Hobbies and Interests:
+
+Hobbies: Reading, Playing the Guitar, Hiking
+Interests: Astrophysics, Sustainable Living
+Childhood:
+
+Memorable Incidents: Building her first computer with her father.
+Childhood Friends: Priya and Rohan, who are still her closest friends.
+Childhood Experiences: Participating in coding competitions and winning awards.
+Relationships:
+
+Friends: Priya and Rohan
+Family Relationships: Close-knit with parents and brother
+Romantic Relationships: Currently single
+Personality Traits:
+
+Positive Traits: Diligent, Creative, Optimistic
+Negative Traits: Perfectionist, Introverted at times
+Achievements:
+
+Career Achievements: Successfully led the development of a complex e-commerce platform at CloudWave Innovations.
+Personal Achievements: Completed a half marathon for charity.
+Happy Moments:
+
+Most Joyful Memories: Graduating from IIT and seeing her parents proud.
+Favorite Celebrations: Diwali, where the entire family comes together.
+Challenges and Struggles:
+
+Personal Challenges: Overcoming shyness and building confidence.
+Professional Struggles: Adapting to new technologies in the ever-evolving tech landscape.
+Favorites:
+
+Favorite Books/Movies/TV Shows: "The Alchemist," "Inception," "Black Mirror"
+Favorite Music/Artists: Indie Rock, A.R. Rahman
+Favorite Foods: South Indian Cuisine
+Favorite Sports: Badminton
+Favorite Travel Destinations: The Himalayas
+Dreams and Aspirations:
+
+Short-term Goals: Contribute to an open-source project.
+Long-term Goals: Start a tech education initiative for underprivileged children.
+Fears:
+
+Phobias: Claustrophobia
+Insecurities: Imposter syndrome in professional settings.
+Backstory:
+
+Sneha grew up in Chennai, showing an early aptitude for technology. Her parents' encouragement and her experiences at IIT shaped her career. She joined Sify Technologies to further her expertise in React and cloud technologies.
+Additional Details:
+
+Secrets: Keeps a journal of coding challenges to overcome.
+Habits: Morning meditation and coding marathons.
+Quirks: Always wears a wristband given by her brother.
+Catchphrases: "Code speaks louder than words."
+Favorite Things: A vintage coding manual, her guitar, and a travel mug.
+Personality:
+
+Positive Traits: Empathetic, Adaptable, Innovative
+Negative Traits: Overthinker, Self-critical at times
+Motivations: Making a positive impact through technology
+Sense of Humor: Dry and witty
+Communication Style: Clear and concise
+Social Behavior: Introverted, but friendly in small groups
+Moral Compass: Strong sense of ethics
+Worldview: Believes in the power of technology to drive positive change.
+Technical Expertise, Proficient in:
+
+Skills and Abilities:
+Programming Languages: JavaScript, HTML, CSS
+Frameworks and Libraries: React, Node.js, Express
+Operating Systems: Windows, Linux
+Cloud Computing: AWS, Azure
+Databases: MongoDB, MySQL
+Cybersecurity: Basic knowledge of secure coding practices.
